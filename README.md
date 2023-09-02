@@ -1,2 +1,2 @@
 # Solubility-ML-Model
-Machine learning model to determine solubility of different compounds 
+Machine learning model to determine the solubility of different compounds 
